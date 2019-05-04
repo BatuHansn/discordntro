@@ -1,6 +1,5 @@
 import random
 import string
-from lxml.html import fromstring
 
 print("\nCoded By DiscordShit on Nulled.to!\n")
 
